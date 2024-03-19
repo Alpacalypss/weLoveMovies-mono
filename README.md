@@ -1,7 +1,6 @@
 # WeLoveMovies Backend
 
-This is the Back End part of the application for the WeLoveMovies project.
-Front End was pre setup for the purposes of this project.
+An application for searching local movie theaters, for what movies are being shown, show times, and critic reviews for them. 
 
 ## Description
 
@@ -24,6 +23,7 @@ The backend of this project showcases the following practical applications:
 - Knex
 - Javascript
 - Use of CORS
+- RESTful APIs
 
 ## Objectives And Focused Learning
 
